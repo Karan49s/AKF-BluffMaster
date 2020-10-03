@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/ready2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/ic_action_admin"
+        android:layout_marginTop="5dp"
+        android:visibility="gone"/>
+    <TextView
+        android:id="@+id/ready0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="X  "
+        android:textSize="30sp"
+        android:visibility="gone"
+        android:textColor="#FF0000"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:id="@+id/ready1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O  "
+        android:textSize="30sp"
+        android:textColor="#00FF00"
+        android:textStyle="bold"
+        android:visibility="gone"
+        />
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="name"
+        android:textSize="30sp"
+        />
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "254686522025",
+    "firebase_url": "https://gamehub-6d36f.firebaseio.com",
+    "project_id": "gamehub-6d36f",
+    "storage_bucket": "gamehub-6d36f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254686522025:android:ed3f76098ddecbd4f157b8",
+        "android_client_info": {
+          "package_name": "com.karan.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254686522025-do9fs7kgmvt9t700dg2a9f9orghki487.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karan.myapplication",
+            "certificate_hash": "8af1731a1cbf4d23c71f04afcf040bd0baab2c3b"
+          }
+        },
+        {
+          "client_id": "254686522025-nfatj0afmc95ko980aacisk4q3je8uqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexL0k-nGqTiQJc3_1EnsMjr9uIchNBMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254686522025-nfatj0afmc95ko980aacisk4q3je8uqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
